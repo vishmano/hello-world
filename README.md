@@ -8,5 +8,5 @@ https://chercher.tech/comptia-certification/
 
 Everything is on a web
 
-#**Cherecher tech**
+**Cherecher tech**
 https://chercher.tech/
